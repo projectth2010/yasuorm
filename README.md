@@ -9,8 +9,11 @@ Install via Composer:
 
 ```bash
 composer require yasupada/yasuorm
+```
 
---- 
+## Usage
+
+```php
 use Yasupada\YasuORM\YasuORM;
 use Yasupada\YasuORM\Model;
 
